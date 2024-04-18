@@ -1,4 +1,4 @@
-# example
+# Dice App
 
 A new Flutter project.
 
